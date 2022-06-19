@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/to-buy-list/static/css/main.efc57b04.css",
+    "main.js": "/to-buy-list/static/js/main.96820425.js",
+    "index.html": "/to-buy-list/index.html",
+    "main.efc57b04.css.map": "/to-buy-list/static/css/main.efc57b04.css.map",
+    "main.96820425.js.map": "/to-buy-list/static/js/main.96820425.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efc57b04.css",
+    "static/js/main.96820425.js"
+  ]
+}
